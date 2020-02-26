@@ -1,0 +1,39 @@
+header{
+    height: 103px;
+    width: 100%;
+    background-color: rgb(221, 143, 115);
+    font-family: acuminPRO;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.navigation-ul:after{
+    content: " ";
+    display: block;
+    clear: both;
+}
+.navigation-a{
+    color: inherit;
+}
+.navigation-li{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.navigation-li:first-child{
+    margin-left: 300px;
+    margin-right: 60px;
+    font-size: 22px;
+    font-weight: lighter;
+   
+}
+.navigation-li:nth-child(3){
+    margin-right: 300px;
+    margin-left: 60px;
+    color: #404040;
+}
+.exp{
+    font-weight: bold;
+}

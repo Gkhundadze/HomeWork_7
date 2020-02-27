@@ -6,7 +6,7 @@ body{
     top: 0;
     left: 0;
     width: 100%;
-    background-color: lightcoral;
+    background-color: white;
     padding: 15px;
     margin-bottom: 40px;
     z-index: 3;
@@ -39,4 +39,9 @@ body{
     left: 50%;
     transform: translateX(-50%);
 
+}
+section{
+    background-color: whitesmoke;
+    height: 100%;
+    
 }

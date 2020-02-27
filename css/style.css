@@ -17,6 +17,11 @@ body{
 }
 .navigation-li{
     display: inline-block;
+    margin-right: 40px;
+}
+.navigation-li:nth-child(3){
+    margin: 0;
+    margin-left:40px;
 }
 .left{
     float: left;
